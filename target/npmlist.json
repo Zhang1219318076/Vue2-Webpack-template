@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "name": "order",
+  "dependencies": {
+    "axios": { "version": "1.4.0" },
+    "core-js": { "version": "3.32.0" },
+    "dayjs": { "version": "1.11.9" },
+    "lib-flexible": { "version": "0.3.2" },
+    "vant": { "version": "2.12.54" },
+    "vue-router": { "version": "3.2.0" },
+    "vue": { "version": "2.7.14" }
+  }
+}
